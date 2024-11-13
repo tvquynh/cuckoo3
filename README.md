@@ -1,5 +1,6 @@
 ## Cuckoo3 Quick Start Guide <p>
 For full documentation, please visit: https://cuckoo-hatch.cert.ee/static/docs/installing/quickstart/ <br>
+## Prepare Fresh Ubuntu 22.04 LTS
 ## Step 1: Run the Installation Script <br>
 
 1. Open your terminal. <br>
