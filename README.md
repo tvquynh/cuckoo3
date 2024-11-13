@@ -34,7 +34,7 @@ sudo reboot
 
 1. Switch to the cuckoo user:
 ```
-sudo su cuckoo
+su cuckoo
 ```
 2. Clean up old socket files (if any exist):
 ```
