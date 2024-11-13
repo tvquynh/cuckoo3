@@ -7,7 +7,7 @@ For full documentation, please visit: https://cuckoo-hatch.cert.ee/static/docs/i
 
 2. Run the following command to download and execute the Cuckoo3 installation script. This may take some time, depending on your internet connection speed. <br>
 ```
-  curl -sSf https://cuckoo-hatch.cert.ee/static/install/quickstart | sudo bash <br>
+  curl -sSf https://cuckoo-hatch.cert.ee/static/install/quickstart | sudo bash 
 ```
 
 3. When prompted, select "y" for all questions. <br>
